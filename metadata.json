@@ -1,0 +1,5 @@
+{
+  "name": "HostMaster CRM",
+  "description": "A comprehensive CRM for hosting agencies to manage Customers, Domains, Hosting, and VPS, with intelligent infrastructure mapping and AI assistance.",
+  "requestFramePermissions": []
+}
